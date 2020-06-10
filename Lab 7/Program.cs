@@ -132,7 +132,9 @@ namespace Lab_7
         }
         public static void PrintProgramOverview()
         {
-            Console.WriteLine("This application allows you to see a list of movies based on the category.");
+            Console.WriteLine("");
+            Console.WriteLine("--Program Overview--");
+            Console.WriteLine("This application allows you to see a list of movies based on the category or based on keyword search. You can also print a copy of all of the movies in this list. Enjoy!");
         }
         public static void PrintMenuOptions()
         {
