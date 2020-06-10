@@ -1,0 +1,6 @@
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 7 Movie List Refactor\Lab 7\Lab 7\bin\Debug\Lab 7.exe.config
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 7 Movie List Refactor\Lab 7\Lab 7\bin\Debug\Lab 7.exe
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 7 Movie List Refactor\Lab 7\Lab 7\bin\Debug\Lab 7.pdb
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 7 Movie List Refactor\Lab 7\Lab 7\obj\Debug\Lab 7.csprojResolveAssemblyReference.cache
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 7 Movie List Refactor\Lab 7\Lab 7\obj\Debug\Lab 7.exe
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 7 Movie List Refactor\Lab 7\Lab 7\obj\Debug\Lab 7.pdb
